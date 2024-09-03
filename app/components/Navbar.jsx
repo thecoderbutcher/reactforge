@@ -9,7 +9,7 @@ const Navbar = () => {
 
     const navitems = [
         {title:'Home', link:'/'},
-        {title:'Landing', link:'/'},
+        {title:'Landing', link:'/landing'},
         {title:'Dashboard', link:'/'},
         {title:'Aplicaciones', link:'/'},
         {title:'Pagos', link:'/'},
